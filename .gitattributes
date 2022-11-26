@@ -1,0 +1,15 @@
+dist filter=lfs diff=lfs merge=lfs -text
+jgoodies-forms-1.8.0-sources.jar filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+tessdata filter=lfs diff=lfs merge=lfs -text
+include filter=lfs diff=lfs merge=lfs -text
+jgoodies-common-1.8.0.jar filter=lfs diff=lfs merge=lfs -text
+lib filter=lfs diff=lfs merge=lfs -text
+output.png filter=lfs diff=lfs merge=lfs -text
+output3.png filter=lfs diff=lfs merge=lfs -text
+bin filter=lfs diff=lfs merge=lfs -text
+jgoodies-forms-1.8.0.jar filter=lfs diff=lfs merge=lfs -text
+opencv_java460.dll filter=lfs diff=lfs merge=lfs -text
+input.jpg filter=lfs diff=lfs merge=lfs -text
+jgoodies-common-1.8.0-sources.jar filter=lfs diff=lfs merge=lfs -text
+output2.png filter=lfs diff=lfs merge=lfs -text
