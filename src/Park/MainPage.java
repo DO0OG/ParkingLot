@@ -56,7 +56,7 @@ public class MainPage extends JFrame implements Runnable{
 
 	private JPanel contentPane;
 	public static JPanel cam;
-	public static Webcam camPic = Webcam.getWebcamByName("Full HD webcam 2");
+	public static Webcam camPic = Webcam.getDefault();
 	public static int flag = 0;
 	public static Long time;
 	public static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
